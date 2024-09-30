@@ -1,0 +1,2 @@
+Hello, studying Git is so chill
+Today is Monday, test git
